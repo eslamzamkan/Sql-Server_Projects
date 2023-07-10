@@ -1,5 +1,4 @@
-I am very excited to share my last project about presenting the sales of pizzas and profits performance 
-I analyzed the data and designed visual to improve data interpretation
+through this dataset we analysis pizzas data to answer some questions to increase sales and profits  
 Here are the steps I followed:
 1. Data exploration: I identified key questions to determine performance indicators in terms of sales,profits,trend for total order
 2. Data cleaning: I removed errors and missing data to ensure the accuracy of the analysis.
